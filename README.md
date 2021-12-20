@@ -18,7 +18,7 @@ Construido con Java.
 
 Versión 1.0
 
-Hecho por *Santiago Martínez Padilla**
+Hecho por *Santiago Martínez Padilla*
 
 Licencia de **Dominio Público**
 

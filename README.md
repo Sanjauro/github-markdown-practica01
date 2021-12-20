@@ -12,7 +12,7 @@ Este repositorio cotiene:
 
 ## Cómo ejecutar la aplicación
   * Windows: Doble clic en el ejecutable.
-  * Línea de comandos: Dentro del directorio del archivo ejecutar '$Java -jar swing_c_p02_martinezPadillaSantiago.jar'
+  * Línea de comandos: Dentro del directorio del archivo ejecutar `$Java -jar swing_c_p02_martinezPadillaSantiago.jar`
   
 Construido con Java.
 

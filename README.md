@@ -28,4 +28,4 @@ Recursos adicionales:
  
 ……
 
-![Imagen Markdown](https://comika.es/wp-content/uploads/2020/08/markdown-guide-og.jpg)
+![Imagen Markdown](https://lh3.googleusercontent.com/proxy/otVz3WrYXRFHOqw5I8pe1n2YTwywXTTBC1K1j3BXO-yRCiBCYavQErNoFBZVCR3kvqjaWeBVEIpJ0scVOKnMSPobDkGRWOQgIQTgq9MgEVOY8WwwwF70d5eXCqtDIjY)

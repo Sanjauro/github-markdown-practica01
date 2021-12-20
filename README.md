@@ -17,5 +17,4 @@ Hecho por Santiago Martínez Paddilla
 Licencia
 Recursos adicionales:
  * [GitHub](https://github.com)
-
 ……

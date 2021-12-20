@@ -2,10 +2,10 @@
 Repositorio de la práctica 1 con Swing_p02_compendio para practicar GitHub y MarkDown.
 
 Este repositorio cotiene:
-  * Ejecutable del programa.
-  * Los archivos del programa.
-  * Un JavaDoc del programa.
-  * Un documento sobre su usabilidad.
+  1. Ejecutable del programa.
+  2. Los archivos del programa.
+  3. Un JavaDoc del programa.
+  4. Un documento sobre su usabilidad.
   
 Desarrollo del proyecto
 

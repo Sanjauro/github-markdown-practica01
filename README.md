@@ -6,8 +6,7 @@ Este repositorio cotiene:
   * Los archivos del programa.
   * Un JavaDoc del programa.
   * Un documento sobre su usabilidad.
-  
-Contenido de la publicación
+  * 
 Desarrollo del proyecto
 Despliegue (como ejecutar la aplicación desde el ejecutable)
 Windows
@@ -17,5 +16,5 @@ Versión 1.0
 Hecho por Santiago Martínez Paddilla
 Licencia
 Recursos adicionales:
-Link a la propia página de GitHub
+ * [GitHub](https://github.com)
 ……

@@ -8,13 +8,19 @@ Este repositorio cotiene:
   * Un documento sobre su usabilidad.
   
 Desarrollo del proyecto
+
 Despliegue (como ejecutar la aplicación desde el ejecutable)
+
 Windows
 Línea de comandos
 Construido con Java.
+
 Versión 1.0
+
 Hecho por Santiago Martínez Paddilla
-Licencia
+
+Licencia de Dominio Público
+
 Recursos adicionales:
  * [GitHub](https://github.com)
 

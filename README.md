@@ -6,7 +6,7 @@ Este repositorio cotiene:
   * Los archivos del programa.
   * Un JavaDoc del programa.
   * Un documento sobre su usabilidad.
-  * 
+  
 Desarrollo del proyecto
 Despliegue (como ejecutar la aplicación desde el ejecutable)
 Windows

@@ -27,3 +27,5 @@ Recursos adicionales:
  * [Java](https://www.java.com/es/download/)
  
 ……
+
+[Imagen Markdown](https://comika.es/wp-content/uploads/2020/08/markdown-guide-og.jpg)
